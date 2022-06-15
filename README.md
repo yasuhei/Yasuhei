@@ -29,7 +29,7 @@ Curto tecnologias , natureza, esportes, praia, e frio :snowflake:.
 
 
 
-## 📈 GitHub Stats 
+## 📈 GitHub Status 
 <div >
   <a href="https://github.com/yasuhei">
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=yasuhei&show_icons=true&&theme=aura&count_private=true"/>

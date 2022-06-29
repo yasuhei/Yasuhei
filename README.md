@@ -1,6 +1,8 @@
 # Yasuhei Nakamura
 Olá sou um **Desenvolvdor Front-End **!
 
+#Atualmente trabalho com o framework angular, typescript na criação de sistemas internos e HTML, CSS e javascript para criação de landing pages. 
+
  :rocket:  &nbsp; Sempre buscando cada dia mais ser melhor do que ontem!
  <br/> :purple_heart: &nbsp; Meus trabalhos hoje são com o framework Angular, HTML, SCSS e javascript.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox, Bootstrap, Material.

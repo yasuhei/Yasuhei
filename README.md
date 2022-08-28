@@ -12,6 +12,7 @@ Olá sou um Desenvolvdor Front-End !
 
 ## ⚡ Experiência
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Angular-e52e4d?style=for-the-badge&logo=angular&logoColor=white)
 ![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +27,7 @@ Olá sou um Desenvolvdor Front-End !
 ![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![image](https://img.shields.io/badge/Angular-F24E1E?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/Angular-e52e4d?style=for-the-badge&logo=angular&logoColor=white)
 
 
 

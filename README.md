@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=5000&pause=99974&color=4c1d95&width=435&height=40&lines=__%3C/Yasuhei_Nakamura_Dev_Front-End%3E______)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=9000&pause=99974&color=4c1d95&width=800&height=40&lines=______%3C/Yasuhei_Nakamura_Desenvolvovedor_Front-End%3E______)
 Olá sou um Desenvolvdor Front-End !
 
 #Atualmente trabalho com o framework angular, typescript na criação de sistemas internos e HTML, CSS e javascript para criação de landing pages. 

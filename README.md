@@ -4,9 +4,9 @@ Olá sou um Desenvolvdor Front-End !
 #Atualmente trabalho com o framework angular, typescript na criação de sistemas internos e HTML, CSS e javascript para criação de landing pages. 
 
  :rocket:  &nbsp; Sempre buscando cada dia mais ser melhor do que ontem!
- <br/> :purple_heart: &nbsp; Meus trabalhos hoje são com o framework Angular, HTML, SCSS e javascript.
+ <br/> :purple_heart: &nbsp; Meus trabalhos hoje são com o framework React.js, Angular, Next.js,Tailwind, Ant-design, Typescript, HTML, SCSS e javascript.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox, Bootstrap, Material.
- <br/> :computer: &nbsp; Minha stack: ReactJS,Angular, Javascript, Typescript, Node.js.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Angular, Javascript, Typescript.
  <br/> 💬  &nbsp; Sobre mim: Sou casado :couplekiss_man_woman: tenho 31 anos, formado em engenharia de produção :mortar_board:,  resido em Campinas-SP. 
 
 

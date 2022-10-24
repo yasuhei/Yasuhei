@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=9000&pause=99974&color=4c1d95&width=1000&height=40&lines=__________%3CYasuhei_Nakamura_Desenvolvedor_Front-End/%3E_________)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=9000&pause=99974&color=02D2FE&width=1000&height=40&lines=__________%3CYasuhei_Nakamura_Desenvolvedor_Front-End/%3E_________)
 Olá sou um Desenvolvdor Front-End !
 
 #Atualmente trabalho com o framework angular, typescript na criação de sistemas internos e HTML, CSS e javascript para criação de landing pages. 
@@ -11,7 +11,7 @@ Olá sou um Desenvolvdor Front-End !
 
 
 ## ⚡ Experiência
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
 ![image](https://img.shields.io/badge/Angular-e52e4d?style=for-the-badge&logo=angular&logoColor=white)
 ![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -21,7 +21,7 @@ Olá sou um Desenvolvdor Front-End !
 
 
 ## ⚡ Habilidades em Desenvolvimento
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

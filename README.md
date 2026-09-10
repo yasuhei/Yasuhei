@@ -1,52 +1,73 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=9000&pause=99974&color=02D2FE&width=1000&height=40&lines=__________%3CYasuhei_Nakamura_Desenvolvedor_Front-End/%3E_________)
+# 👋 Olá, eu sou Yasuhei Nakamura
+
+### Full Stack Developer | React • Angular • TypeScript • Java • Spring Boot
+
+```
+```^^^^^^^""",,,,,,"""""",,,,,",",,,,,,""""""""""^^^^^^^^^"""""""^^^```''.....   yasuhei@fullstack-dev
+'`^^^^""""",,,,,:,,,,,,,,,:::,,,""",,::,,,,,,,,,,""""^^""","",,,,,,,""^```'...   ----------------------
+`^^^"""",,,,::::,,,,,:::::::::::::,:,,,:::::::;::,,,,",,,,,,,:,,,,:,,,"""^``'.   OS: Windows 11 / Linux
+^^^"",,,,,::;;;;;;::;;;;;;;;:;;;;;;;:::;::;;;::::::;::::;;IIII;::,,,,,"""^^``'   Host: 7comm informática
+^""",,,,,,,:;:;;IIIIIIII;;;;;;;III;I;;;:;II;;;:;;;;;I;IIIIllllII;:,,""""^^^```   Formacao: Engenharia de Producao
+",,,,,,,:::;;IIIIIIIIIII::;Il!;,;illlli>!>!lII;;;IIIIllllllIIlIII;:,,,,,,""^^^   Cursando: Pós graduaão: Java + IA Unipds
+,,,,,,:::;;IIIIIlIIIIII!<~-[-<l!<?_i>~!iiI!liill!IIll!!i!lllllllIII;;:::::,,,"   IDE: VSCode, IntelliJ IDEA
+,,,::::;;;IIIIllllIIli>+<~+!<<,!+-<i!!;ii;,';+~l<>iIl!!i!!ll!!i!!lIII;;;;::,,,   Local: Campinas, SP - Brasil
+,,,:::;;;IIIIIlIIl!>!l~_-1]-iii,^!?!l!:Il,'`.;;;lI<!Il!i>iii>>>>>!lII;;;;::,,,   Languages.Programming: Java, TypeScript, JavaScript
+;:;;;;;;;IIIllii~_+><~-][?il>li<I:<>>I^:"`. "" ","I>I;iiii>>>>>ii!!llIIII;;:,,   Languages.Real: Portugues, Ingles
+;;III;;;IIl!<<>i~>-11{?+i<+>,!!>i';<!l.;,..^^`^^^^"`^"^;;:!>+>i>iiii!llllII;:,   
+;;IIIIIIIl><<iilI?]-?<>l;:!><"II:` Il,"i,`;"^"``..'`^^^"I<:,i~<>iiiiiii!!lllI;   Frontend: React, Angular, Next.js, Tailwind CSS
+;IIIIIlIlli<~~ii-+>>,.`"`. '"" ^.':;Ill!:;^"^'.....`^,;;;;:,,>~i<>>iiii!!!!!lI   Backend: Java, Spring Boot, Node.js, Nestjs
+IIIIIIllli>l>___]>l,^`  `i?}\/tfjuYYznrjt(1{?---_<l"  '^"",;,,I<+<>iii!!!>>>i!   Database: PostgreSQL, SQL
+IIlllllli~-+-_>l,`..  <\z0ZpddbkkbbbqZO0LUYcnxjfft/)?l' ``^":,";>~~iiiiii><<>>   Tools: Git, GitHub, Jest, Scrum
+IIIIIl!l<_[[-iI"..  +rOqkhaohhhkkkkkqpZOLLJYznrrxxxrj/}I .`^"^`^;><>ii>>>>>>>>   
+lIIIIIlll><iI+~I^ ;xwkao#MMM*aoaaahhbdwZO0QJYcuxnuccunr\_` .`,^``l><>>i>iiiiii   Estudando: Docker, CI/CD, AWS, Kubernetes
+lIlllllli<<i__l, ~Qaa*W&%%8&M#ooa**akbpmmZ0QLYzunuczzzuxf-`  ^"^^`Ii<<ii>>>>i>   
+Illllllli!l~>;,,~0*oM&8%BB%&WWM*aaahhkqmZ0QLCUXuncuczXzcn|>'' ``",^ii<>><<<<<<   Contato -_________________________________-
+lll!lllii!!+<,"<ca*#&8%%%%8M*oooakbbbkbpOQLJUYzuuuuccXXXcf-:"` ..I;,!<~<<<<~<~   
+ll!!!!!!!><]!">1O*MM&8%8%88W#okdbqqqbkkbwOQLLUYXzcccczXXcf]l"^``.^l,;_~<>><<<~   Contact.Email: yasuhei_nakamura@hotmail.com
+l!!!!i!!ii??:I~tq#*M&8%B@$@@B8MabdpqbhaaqwmOOQUzXYYXYXXXcj}i^''^``^il<~<<<<<~~   Contact.LinkedIn: /in/yasuhei-nakamura-9aa80a93
+!iiiiiiii>[i",+UohaW%B%&Mhbhkhoaooaaoo#*kqZCut]-?}(/jYUXcu/+"`''`^`li!+<<<~<<<   
+!iii>>>i<_i^`,1hbwW*pXj1--)/nXJQmpaW#aaadZJrt{-<I'"^,+/czur(<``'..`:I~+~~++~<<   
+l!!!!>i>~; '`:f0LkwYzzXYcXCLZpddpdM%8kp0CYnuULO0QLUn\-<_tcxt{,.`..."":<+~~~+++   
+!!l!ii<>!lIII!cmkkph&@$$B#hqZwdh#&B@WwXf\1)juULOOOOZ0Jut|rnr/>.`'..^>~~+~~+++~   
+!i!i~<>>li,,I{oo*W88#dOJuj[-?}tUq#8BMmn|]<_<>~?{~+--}|xcununr]'^' ':>_++++++~~   
+l!!!!iii>:[[Ir**W&#hqmpdqwJujfXmb#8BMZr|{-_?{|fxzcnxt|1(txzcn)"'^:++<~~++~~~~+   
+llllllilIl0ziX##WWMMMWW*hpm0Oph*M88&#Of)1){{11)|/tfjrxnnxnccu|"`>])<<<<~~~~+~~   
+!!!!!i!i!?OpfX##W&88&#ohbdqqkoW%B8&8hmc///ftjrrrxuzzzzXYuxczux>_f)1<>><<++~++~   
+i>>ii>i>!_Qk*L*M888%%8W#*aao*W8MW8B%apJxr/]1\jJOQLLLLJUJJXczzc[fY\}>>><~~~++~~   
+>>>>>>ii>lU&bQo&%BB@@%&M*okqwo88B@$$8hmCcnjxj[/LbkdqpmOQCCYczn]?|/+<<<~+~~++++   
+<<<>>>>><lromnd8%B$$$B8MapLLd*%#qa8B&hwJj(/zf|tjUb*akbqmQJYzz\?t|1+~<~++++++++   
+<~<<>>><~>}dMwO&8B@$@8#bOCZhMaqLzjJqqwU(I^,Ii-{(fcmaokdw0JXzn[)YX{~+~~~+~~~~~~   
+<<><<~~~~+iw$oCM&&%%8*qYucczft\}[?+_<r1":^`";^.`Ii}/LbqwQYzut+jJc-~+~~~~~~~<<<   
+>>>>><<~~+>|o#Uk#M&8Mqx{(|xuxJCzYQUf)jt)\}]1}]]__i::^jZOCXx/1~11_~+<<<~<~<<><~   
+>>>>><~~~~~i~(\maho&Wd1>/xU0woM&W*akqOOCUJUCn\[?{//~<xCLzj\\1<<<~+~~<~~~~<>><<   
+<>>><<<~~~<~~i+Udkh*M*0}(CCx-Xo8@@@$8%$*aoCUt+"i1nufJOYzj\|)?~+~~<<~~~<~~<><<<   
+~<>>>>>><<~~~++1wkkba&M0Xd#M#dpboadp0LmLxf{-_}|txucuQUj|(/\[<~<<<>><~~<<<<><<~   
+<<<>>ii>>><<<~~~/mpwbo#hdk#MW8B8#*kmUYCLJzf|/fjjjrjtnj(1\)_<<<<<>>>><~~<<<<><<   
+~<><<<<<><<<<<~~>/mZQbo#bd#WW&8#bb0xfj[}\|\trxj\()}(/(]}1_+<<<<><<<<~~~<<<>>>>   
+<<<~<<<>>>><><<<~i[zZbakwmwk#o&8%Mwzt){)tuUJcj\|)[-]?--_<{1><<<>>><<<<<><>>>ii   
++~~~~~>>>><~~~~~<<i-zZdbOOO0qpwboabZcrj\/ff\|\|1]+~Ii~li}r1><>>>>>>>>>>>>>>iii   
+++~~~~<<<<~~~~~~~<<<XjjYQUCLmZCYmkpZOLXnj\{_+?]-+_iI::_\ff)><>>>>>>ii>>>>>ii!!   
+<<<~~<<<<~++~~<<~<~IU*Y((tzLmCCYuzQOZ00Cu|}]~<!<!;^">{/t/t)i<>>>>iii>>>iii!llI   
+>><<>>><~<~~++~~<<<IjWMac]+]rnzCnuUcxnYXn/}~li:^ .>{/ft/\\\_!i>>iiiii>>>>i!llI   
+i>>iii>><<<<~~~+~<<I)**MWdz)_>})[-)}_1\{]_!,,^`I?(fjjft\\\\(}~!i>>>>iiii!ii!II   
+iii!ii>>>>><<~~~~<>l}a###W#adLr}~ii::>>l,,^,l+}txxxxrjf/\|({((]l,Iiiiii!!!!lII   
+```
 
 
-![image](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-Olá sou um Desenvolvdor Front-End !
 
-#Atualmente trabalho com os frameworks React/angular, typescript na criação de sistemas internos e HTML, CSS e javascript para criação de landing pages. 
+## 🛠️ Projetos
 
- :rocket:  &nbsp; Sempre buscando cada dia mais ser melhor do que ontem!
- <br/> :purple_heart: &nbsp; Meus trabalhos hoje são com o framework React.js, Angular, Next.js,Tailwind, Ant-design, Typescript, HTML, SCSS e javascript.
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox, Bootstrap, Material.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Angular, Javascript, Typescript.
- <br/> 💬  &nbsp; Sobre mim: Sou casado :couplekiss_man_woman: tenho 31 anos, formado em engenharia de produção :mortar_board:,  resido em Campinas-SP. 
+### ⚽ Sem Panela FC
 
+Aplicação web desenvolvida para facilitar a criação de times equilibrados para partidas de futebol.
 
-## ⚡ Experiência
-<!-- ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Angular-e52e4d?style=for-the-badge&logo=angular&logoColor=white)
-![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](	https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=0075CF)
-![image](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Styled-components-20232A?style=for-the-badge&logo=styled-components&logoColor=A95B6B)
-![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+O sistema permite cadastrar jogadores com diferentes níveis de habilidade e gerar múltiplas combinações de times buscando manter o equilíbrio entre as equipes.
 
+**Tecnologias:**
 
+React • TypeScript • JavaScript • Vercel
 
-## ⚡ Habilidades em Desenvolvimento
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](	https://img.shields.io/badge/Nextjs-323330?style=for-the-badge&logo=nextjs&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Sql-F24E1E?style=for-the-badge&logo=sql&logoColor=white)
+🔗 [Acessar projeto](https://sem-panela-fc.vercel.app/)
 
-
-
-## 📈 GitHub Status 
-<div >
-  <a href="https://github.com/yasuhei">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=yasuhei&show_icons=true&&theme=aura&count_private=true"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuhei&layout=compact&langs_count=7&theme=aura"/>
-</div>
-
-
- <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/yasuhei-nakamura-9aa80a93/e
-
-
-
-
-
- <br/> :email: &nbsp; yasuhei_nakamura@hotmail.com
+---
 

@@ -3,35 +3,32 @@
 ### Full Stack Developer | React • Angular • TypeScript • Java • Spring Boot
 
 ```
-```^^^^^^^""",,,,,,"""""",,,,,",",,,,,,""""""""""^^^^^^^^^"""""""^^^```''.....   yasuhei@fullstack-dev
-'`^^^^""""",,,,,:,,,,,,,,,:::,,,""",,::,,,,,,,,,,""""^^""","",,,,,,,""^```'...   ----------------------
-`^^^"""",,,,::::,,,,,:::::::::::::,:,,,:::::::;::,,,,",,,,,,,:,,,,:,,,"""^``'.   OS: Windows 11 / Linux
-^^^"",,,,,::;;;;;;::;;;;;;;;:;;;;;;;:::;::;;;::::::;::::;;IIII;::,,,,,"""^^``'   Host: 7comm informática
-^""",,,,,,,:;:;;IIIIIIII;;;;;;;III;I;;;:;II;;;:;;;;;I;IIIIllllII;:,,""""^^^```   Formacao: Engenharia de Producao
-",,,,,,,:::;;IIIIIIIIIII::;Il!;,;illlli>!>!lII;;;IIIIllllllIIlIII;:,,,,,,""^^^   Cursando: Pós graduaão: Java + IA Unipds
-,,,,,,:::;;IIIIIlIIIIII!<~-[-<l!<?_i>~!iiI!liill!IIll!!i!lllllllIII;;:::::,,,"   IDE: VSCode, IntelliJ IDEA
-,,,::::;;;IIIIllllIIli>+<~+!<<,!+-<i!!;ii;,';+~l<>iIl!!i!!ll!!i!!lIII;;;;::,,,   Local: Campinas, SP - Brasil
-,,,:::;;;IIIIIlIIl!>!l~_-1]-iii,^!?!l!:Il,'`.;;;lI<!Il!i>iii>>>>>!lII;;;;::,,,   Languages.Programming: Java, TypeScript, JavaScript
-;:;;;;;;;IIIllii~_+><~-][?il>li<I:<>>I^:"`. "" ","I>I;iiii>>>>>ii!!llIIII;;:,,   Languages.Real: Portugues, Ingles
-;;III;;;IIl!<<>i~>-11{?+i<+>,!!>i';<!l.;,..^^`^^^^"`^"^;;:!>+>i>iiii!llllII;:,   
-;;IIIIIIIl><<iilI?]-?<>l;:!><"II:` Il,"i,`;"^"``..'`^^^"I<:,i~<>iiiiiii!!lllI;   Frontend: React, Angular, Next.js, Tailwind CSS
-;IIIIIlIlli<~~ii-+>>,.`"`. '"" ^.':;Ill!:;^"^'.....`^,;;;;:,,>~i<>>iiii!!!!!lI   Backend: Java, Spring Boot, Node.js, Nestjs
-IIIIIIllli>l>___]>l,^`  `i?}\/tfjuYYznrjt(1{?---_<l"  '^"",;,,I<+<>iii!!!>>>i!   Database: PostgreSQL, SQL
-IIlllllli~-+-_>l,`..  <\z0ZpddbkkbbbqZO0LUYcnxjfft/)?l' ``^":,";>~~iiiiii><<>>   Tools: Git, GitHub, Jest, Scrum
-IIIIIl!l<_[[-iI"..  +rOqkhaohhhkkkkkqpZOLLJYznrrxxxrj/}I .`^"^`^;><>ii>>>>>>>>   
-lIIIIIlll><iI+~I^ ;xwkao#MMM*aoaaahhbdwZO0QJYcuxnuccunr\_` .`,^``l><>>i>iiiiii   Estudando: Docker, CI/CD, AWS, Kubernetes
-lIlllllli<<i__l, ~Qaa*W&%%8&M#ooa**akbpmmZ0QLYzunuczzzuxf-`  ^"^^`Ii<<ii>>>>i>   
-Illllllli!l~>;,,~0*oM&8%BB%&WWM*aaahhkqmZ0QLCUXuncuczXzcn|>'' ``",^ii<>><<<<<<   Contato -_________________________________-
+ 
+^""",,,,,,,:;:;;IIIIIIII;;;;;;;III;I;;;:;II;;;:;;;;;I;IIIIllllII;:,,""""^^^```   yasuhei@fullstack-dev
+",,,,,,,:::;;IIIIIIIIIII::;Il!;,;illlli>!>!lII;;;IIIIllllllIIlIII;:,,,,,,""^^^   
+,,,,,,:::;;IIIIIlIIIIII!<~-[-<l!<?_i>~!iiI!liill!IIll!!i!lllllllIII;;:::::,,,"   ----------------------
+,,,::::;;;IIIIllllIIli>+<~+!<<,!+-<i!!;ii;,';+~l<>iIl!!i!!ll!!i!!lIII;;;;::,,,   OS: Windows 11 / Linux
+,,,:::;;;IIIIIlIIl!>!l~_-1]-iii,^!?!l!:Il,'`.;;;lI<!Il!i>iii>>>>>!lII;;;;::,,,   Host: 7comm informática
+;:;;;;;;;IIIllii~_+><~-][?il>li<I:<>>I^:"`. "" ","I>I;iiii>>>>>ii!!llIIII;;:,,   
+;;III;;;IIl!<<>i~>-11{?+i<+>,!!>i';<!l.;,..^^`^^^^"`^"^;;:!>+>i>iiii!llllII;:,   IDE: VSCode, IntelliJ IDEA
+;;IIIIIIIl><<iilI?]-?<>l;:!><"II:` Il,"i,`;"^"``..'`^^^"I<:,i~<>iiiiiii!!lllI;   Local: Campinas, SP - Brasil
+;IIIIIlIlli<~~ii-+>>,.`"`. '"" ^.':;Ill!:;^"^'.....`^,;;;;:,,>~i<>>iiii!!!!!lI   Languages.Programming: Java, TypeScript, JavaScript
+IIIIIIllli>l>___]>l,^`  `i?}\/tfjuYYznrjt(1{?---_<l"  '^"",;,,I<+<>iii!!!>>>i!   Languages.Real: Portugues, Ingles
+IIlllllli~-+-_>l,`..  <\z0ZpddbkkbbbqZO0LUYcnxjfft/)?l' ``^":,";>~~iiiiii><<>>   
+IIIIIl!l<_[[-iI"..  +rOqkhaohhhkkkkkqpZOLLJYznrrxxxrj/}I .`^"^`^;><>ii>>>>>>>>   Frontend: React, Angular, Next.js, Tailwind CSS
+lIIIIIlll><iI+~I^ ;xwkao#MMM*aoaaahhbdwZO0QJYcuxnuccunr\_` .`,^``l><>>i>iiiiii   Backend: Java, Spring Boot, Node.js, Nestjs
+lIlllllli<<i__l, ~Qaa*W&%%8&M#ooa**akbpmmZ0QLYzunuczzzuxf-`  ^"^^`Ii<<ii>>>>i>   Database: PostgreSQL, SQL
+Illllllli!l~>;,,~0*oM&8%BB%&WWM*aaahhkqmZ0QLCUXuncuczXzcn|>'' ``",^ii<>><<<<<<   Tools: Git, GitHub, Jest, Scrum
 lll!lllii!!+<,"<ca*#&8%%%%8M*oooakbbbkbpOQLJUYzuuuuccXXXcf-:"` ..I;,!<~<<<<~<~   
-ll!!!!!!!><]!">1O*MM&8%8%88W#okdbqqqbkkbwOQLLUYXzcccczXXcf]l"^``.^l,;_~<>><<<~   Contact.Email: yasuhei_nakamura@hotmail.com
-l!!!!i!!ii??:I~tq#*M&8%B@$@@B8MabdpqbhaaqwmOOQUzXYYXYXXXcj}i^''^``^il<~<<<<<~~   Contact.LinkedIn: /in/yasuhei-nakamura-9aa80a93
-!iiiiiiii>[i",+UohaW%B%&Mhbhkhoaooaaoo#*kqZCut]-?}(/jYUXcu/+"`''`^`li!+<<<~<<<   
-!iii>>>i<_i^`,1hbwW*pXj1--)/nXJQmpaW#aaadZJrt{-<I'"^,+/czur(<``'..`:I~+~~++~<<   
+ll!!!!!!!><]!">1O*MM&8%8%88W#okdbqqqbkkbwOQLLUYXzcccczXXcf]l"^``.^l,;_~<>><<<~   Formaão: -_________________________________'
+l!!!!i!!ii??:I~tq#*M&8%B@$@@B8MabdpqbhaaqwmOOQUzXYYXYXXXcj}i^''^``^il<~<<<<<~~   Formacao: Engenharia de Producao
+!iiiiiiii>[i",+UohaW%B%&Mhbhkhoaooaaoo#*kqZCut]-?}(/jYUXcu/+"`''`^`li!+<<<~<<<   Cursando: Pós graduaão: Java + IA Unipds
+!iii>>>i<_i^`,1hbwW*pXj1--)/nXJQmpaW#aaadZJrt{-<I'"^,+/czur(<``'..`:I~+~~++~<<   Estudando: Docker, CI/CD, AWS, Kubernetes
 l!!!!>i>~; '`:f0LkwYzzXYcXCLZpddpdM%8kp0CYnuULO0QLUn\-<_tcxt{,.`..."":<+~~~+++   
-!!l!ii<>!lIII!cmkkph&@$$B#hqZwdh#&B@WwXf\1)juULOOOOZ0Jut|rnr/>.`'..^>~~+~~+++~   
+!!l!ii<>!lIII!cmkkph&@$$B#hqZwdh#&B@WwXf\1)juULOOOOZ0Jut|rnr/>.`'..^>~~+~~+++~   Contato -_________________________________-
 !i!i~<>>li,,I{oo*W88#dOJuj[-?}tUq#8BMmn|]<_<>~?{~+--}|xcununr]'^' ':>_++++++~~   
-l!!!!iii>:[[Ir**W&#hqmpdqwJujfXmb#8BMZr|{-_?{|fxzcnxt|1(txzcn)"'^:++<~~++~~~~+   
-llllllilIl0ziX##WWMMMWW*hpm0Oph*M88&#Of)1){{11)|/tfjrxnnxnccu|"`>])<<<<~~~~+~~   
+l!!!!iii>:[[Ir**W&#hqmpdqwJujfXmb#8BMZr|{-_?{|fxzcnxt|1(txzcn)"'^:++<~~++~~~~+   Contact.Email: yasuhei_nakamura@hotmail.com
+llllllilIl0ziX##WWMMMWW*hpm0Oph*M88&#Of)1){{11)|/tfjrxnnxnccu|"`>])<<<<~~~~+~~   Contact.LinkedIn: /in/yasuhei-nakamura-9aa80a93
 !!!!!i!i!?OpfX##W&88&#ohbdqqkoW%B8&8hmc///ftjrrrxuzzzzXYuxczux>_f)1<>><<++~++~   
 i>>ii>i>!_Qk*L*M888%%8W#*aao*W8MW8B%apJxr/]1\jJOQLLLLJUJJXczzc[fY\}>>><~~~++~~   
 >>>>>>ii>lU&bQo&%BB@@%&M*okqwo88B@$$8hmCcnjxj[/LbkdqpmOQCCYczn]?|/+<<<~+~~++++   

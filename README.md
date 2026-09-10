@@ -20,8 +20,8 @@ lIIIIIlll><iI+~I^ ;xwkao#MMM*aoaaahhbdwZO0QJYcuxnuccunr\_` .`,^``l><>>i>iiiiii  
 lIlllllli<<i__l, ~Qaa*W&%%8&M#ooa**akbpmmZ0QLYzunuczzzuxf-`  ^"^^`Ii<<ii>>>>i>   Database: PostgreSQL, SQL
 Illllllli!l~>;,,~0*oM&8%BB%&WWM*aaahhkqmZ0QLCUXuncuczXzcn|>'' ``",^ii<>><<<<<<   Tools: Git, GitHub, Jest, Scrum
 lll!lllii!!+<,"<ca*#&8%%%%8M*oooakbbbkbpOQLJUYzuuuuccXXXcf-:"` ..I;,!<~<<<<~<~   
-ll!!!!!!!><]!">1O*MM&8%8%88W#okdbqqqbkkbwOQLLUYXzcccczXXcf]l"^``.^l,;_~<>><<<~   Formaão: -_________________________________'
-l!!!!i!!ii??:I~tq#*M&8%B@$@@B8MabdpqbhaaqwmOOQUzXYYXYXXXcj}i^''^``^il<~<<<<<~~   Formacao: Engenharia de Producao
+ll!!!!!!!><]!">1O*MM&8%8%88W#okdbqqqbkkbwOQLLUYXzcccczXXcf]l"^``.^l,;_~<>><<<~   Formação: -_________________________________'
+l!!!!i!!ii??:I~tq#*M&8%B@$@@B8MabdpqbhaaqwmOOQUzXYYXYXXXcj}i^''^``^il<~<<<<<~~   Formação: Engenharia de Producao
 !iiiiiiii>[i",+UohaW%B%&Mhbhkhoaooaaoo#*kqZCut]-?}(/jYUXcu/+"`''`^`li!+<<<~<<<   Cursando: Pós graduaão: Java + IA Unipds
 !iii>>>i<_i^`,1hbwW*pXj1--)/nXJQmpaW#aaadZJrt{-<I'"^,+/czur(<``'..`:I~+~~++~<<   Estudando: Docker, CI/CD, AWS, Kubernetes
 l!!!!>i>~; '`:f0LkwYzzXYcXCLZpddpdM%8kp0CYnuULO0QLUn\-<_tcxt{,.`..."":<+~~~+++   
